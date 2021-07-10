@@ -1,0 +1,7 @@
+name: Guitutorial
+version: ${project.version}
+main: me.greyshows.guitutorial.Main
+api-version: 1.17
+authors: [ GreyShows ]
+commands:
+  gui:

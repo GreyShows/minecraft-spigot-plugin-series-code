@@ -1,9 +1,0 @@
-name: TutorialPlugin
-main: me.GreyShows.TutorialPlugin.Main
-version: 1.0.0
-description: Tutorial Plugin for my Spigot Series
-author: GreyShows
-api-version: 1.16
-commands: 
-   fly: 
-      description: Lets you Fly!
